@@ -13,7 +13,7 @@ Canvas.*
 
 # Team Contract
 
-*Replace this text with a link to your team's contract.*"
+*Replace this text with a link to your team's contract.*
 
 
 # Design Notes
